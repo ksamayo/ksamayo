@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Ksamayo.
+# Hey, I'm Kaïs.
 **Computer Science Student**  
 <sub>Algorithms &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Low-level / Systems</sub>
 
